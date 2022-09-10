@@ -9,6 +9,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id=".SHINTA" tvg-name"ANTV" group-title="LOKAL",ANTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id=".SHINTA" tvg-name"RCTI" group-title="LOKAL",RCTI
+https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-mp4a_98800_eng=2-2427621880159997.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" tvg-id=".SHINTA" tvg-name"[CODAY] NET TV _VIDIO" group-title="@RIYANCODAY - VIDIO",[CODAY] NET TV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
