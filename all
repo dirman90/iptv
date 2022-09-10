@@ -3,10 +3,13 @@
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"SCTV" group-title="LOKAL",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id=".SHINTA" tvg-name"[CODAY] ANTV _VIDIO" group-title="@RIYANCODAY - VIDIO",[CODAY] ANTV _VIDIO
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" tvg-id=".SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="@RIYANCODAY - VIDIO",[CODAY] Indosiar _VIDIO
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" tvg-id=".SHINTA" tvg-name"INDOSIAR" group-title="LOKAL",INDOSIAR
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id=".SHINTA" tvg-name"ANTV" group-title="LOKAL",ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" tvg-id=".SHINTA" tvg-name"[CODAY] NET TV _VIDIO" group-title="@RIYANCODAY - VIDIO",[CODAY] NET TV _VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" tvg-id=".SHINTA" tvg-name"[CODAY] TVOne _VIDIO" group-title="@RIYANCODAY - VIDIO",[CODAY] TVOne _VIDIO
