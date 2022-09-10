@@ -195,3 +195,12 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/09/film-khuda-haafiz-chapter-2-agni-pariksha-khuda-haafiz-chapter-ii-agni-pariksha-2022-lk21-d21.jpg" tvg-id=".SHINTA" tvg-name"KHUDA HAFIZ PART II" group-title="VOD",KHUDA HAFIZ PART II
 https://hfs270.serversicuro.cc/hls/dnzpeprh3pg4a3gyvdbh52rtyzp5j7ng6zycgkgufuqj7syq2aaki4dhwvsa/index-v1-a1.m3u8
 
+//RADIO
+#EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2022/01/trax-new-logo-2022-03-resize-300x170.png.webp" group-title="RADIO", Trax FM Jakarta
+http://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2022/01/trax-semarang-new-logo-2022-01-resize-300x170.png.webp" group-title="RADIO", Trax FM Semarang
+http://stream.radiojar.com/fr9zqhv80k8uv
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20398.v14.png" group-title="RADIO", REKS FM Garut
+http://stream.radbdg.net:8001/reks1037fm.mp3
+#EXTINF:-1 tvg-logo="https://gen987fm.com/uploads/themes/themes-logo-small-74031486eb23a72.png" group-title="RADIO", Gen FM Jakarta
+https://wz.mari.co.id:1936/web_genfm/genfm/chunklist_w543102046.m3u8
